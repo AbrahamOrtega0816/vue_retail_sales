@@ -7,8 +7,8 @@
             <q-btn round dense flat icon="storefront" class="q-mr-xs" />
             Market !
           </q-toolbar-title>
+           <Search/>
           <q-space />
-          <Search/>
           <ShoppingCart />
         </q-toolbar>
       </q-header>
